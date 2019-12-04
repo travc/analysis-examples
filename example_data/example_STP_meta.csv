@@ -1,0 +1,103 @@
+sample ID,ALT ID,locality,Country,,Lat,Long,year collected,project,species,status,lab point person,data point person,note,pool (first submission only),Raw reads,Mapped reads,% mapping,median insert size,Depth of coverage,Reads (M)/1X
+6617_P,6617-P,Principe,STP,,1°38.094',7°24.914',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,27607038,26896821,97.40%,380,11.61,2.38
+6917_K,6917-K,Principe,STP,,1°37.556',7°24.890',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,19927564,19727578,99.00%,427,8.75,2.28
+0117_A,0117-A,Alto Doro,STP,,0°12.252',6°42.36',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,23220553,22717701,97.80%,411,9.81,2.37
+0117_J,0117-J,Alto Doro,STP,,0°12.252',6°42.36',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,21808960,21489979,98.50%,423,9.25,2.36
+0117_N,0117-N,Alto Doro,STP,,0°12.252',6°42.36',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,22562650,21485692,95.20%,413,9.35,2.41
+10217_H,10217-H,Alto Doro,STP,,0°12.252',6°42.36',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,22181365,19815946,89.30%,379,8.56,2.59
+10217_I,10217-I,Alto Doro,STP,,0°12.252',6°42.36',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,29999146,26839938,89.50%,405,11.86,2.53
+10617_L,10617-L,Alto Doro,STP,,0°12.252',6°42.36',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,20375421,19433571,95.40%,413,8.56,2.38
+10617_N,10617-N,Alto Doro,STP,,0°12.252',6°42.36',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,23493756,22696714,96.60%,401,9.98,2.35
+0117_D,0117-D,Alto Doro,STP,,0°12.252',6°42.36',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,25428940,24060289,94.60%,418,10.48,2.43
+10217_L,10217-L,Alto Doro,STP,,0°12.252',6°42.36',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,23770809,22101190,93.00%,399,9.38,2.53
+6217_G,6217-G,Principe,STP,,1°38.325',7°25.451',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,21347368,20726233,97.10%,385,9.22,2.32
+6317_R,6317-R,Principe,STP,,1°38.35',7°25.061',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,24107468,23731859,98.40%,392,9.88,2.44
+6317_W,6317-W,Principe,STP,,1°38.35',7°25.061',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,22568159,22112737,98.00%,417,9.51,2.37
+6417_K,6417-K,Principe,STP,,1°38.325',7°25.451',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,49899478,48715034,97.60%,362,20.93,2.38
+6617_B,6617-B,Principe,STP,,1°38.094',7°24.914',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,23902490,23640628,98.90%,424,10.33,2.31
+8017_D,8017-D,Principe,STP,,1°41.348',7°24.122',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,25762315,24747584,96.10%,373,10.58,2.44
+6017_C,6017-C,Principe,STP,,1°38.325',7°25.451',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,26311923,26046904,99.00%,383,11.47,2.29
+6317_Z,6317-Z,Principe,STP,,1°38.35',7°25.061',2017,STP gene flow,An. coluzzii,analysis in progress?,MH,MH,from Joao Pinto,MH-Acol-02,23672848,22896927,96.70%,393,10.17,2.33
+02BIOK020,,Bioko,Equatorial Guinea,,,,2002,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-02,25058238,24683110,98.50%,340,11.09,2.26
+02BIOK021,,Bioko,Equatorial Guinea,,,,2002,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-02,23343975,20693135,88.60%,327,9.14,2.55
+02BIOK028,,Bioko,Equatorial Guinea,,,,2002,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-02,31292011,30958606,98.90%,349,13.52,2.32
+03TIKO0027,03TIKO0027,Tiko,Cameroon,,,,2003,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-03,26936533,16584960,61.60%,420,5.92,4.55
+03TIKO0032,03TIKO0032,Tiko,Cameroon,,,,2003,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-03,19573295,16459956,84.10%,454,6.31,3.1
+03TIKO0052,03TIKO0052,Tiko,Cameroon,,,,2003,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-03,24868486,16729051,67.30%,424,6.18,4.02
+03TIKO0059,03TIKO0059,Tiko,Cameroon,,,,2003,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-03,18176191,14162327,77.90%,461,5.13,3.54
+11TIKO403,,Tiko,Cameroon,,,,2011,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-03,18776613,14816671,78.90%,379,5.45,3.45
+11TIKO391,,Tiko,Cameroon,,,,2011,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-03,28461835,28099828,98.70%,401,10.36,2.75
+11TIKO335,,Tiko,Cameroon,,,,2011,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-03,24595179,24232795,98.50%,430,9.03,2.72
+11TIKO326,,Tiko,Cameroon,,,,2011,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-03,19101471,18229598,95.40%,429,6.69,2.85
+11TIKO128,,Tiko,Cameroon,,,,2011,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,,MH-Acol-03,22439642,21732480,96.80%,393,8.17,2.75
+98PRIN003,,Principe,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,46246905,45745034,98.90%,399,18.27,2.53
+98PRIN006,,Principe,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,25836323,25532508,98.80%,403,9.48,2.72
+98PRIN010,,Principe,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,27243529,26930948,98.90%,414,10.19,2.67
+98PRIN011,,Principe,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,23595135,23349499,99.00%,398,8.71,2.71
+98PRIN026,,Principe,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,25110272,24858074,99.00%,418,9.36,2.68
+98PRIN044,,Principe,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,20861611,20643273,99.00%,414,7.8,2.67
+98PRIN046,,Principe,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,27408091,25943088,94.70%,399,10.35,2.65
+98SAOT002,,Sao Tome,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,26619358,24679176,92.70%,430,8.86,3
+98SAOT016,,Sao Tome,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,49359393,48802352,98.90%,412,19.29,2.56
+98SAOT018,,Sao Tome,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,33987232,33584720,98.80%,411,12.01,2.83
+98SAOT027,,Sao Tome,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,25716363,25455481,99.00%,427,9.44,2.72
+98SAOT041,,Sao Tome,STP,,,,1998,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto?,MH-Acol-03,32081671,31195612,97.20%,408,11.69,2.75
+2018GABO009,,Gabon,Gabon,,,,2018,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Diego Ayala,MH-Acol-03,28242143,27943449,98.90%,397,10.93,2.58
+2018GABO008,,Gabon,Gabon,,,,2018,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Diego Ayala,MH-Acol-03,50348489,49730151,98.80%,390,20.59,2.45
+2018GABO010,,Gabon,Gabon,,,,2018,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Diego Ayala,MH-Acol-03,28324074,28008998,98.90%,396,10.1,2.81
+2018GABO011,,Gabon,Gabon,,,,2018,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Diego Ayala,MH-Acol-03,29017908,28256445,97.40%,380,9.97,2.91
+2018GABO013,,Gabon,Gabon,,,,2018,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Diego Ayala,MH-Acol-03,27255024,26987879,99.00%,411,9.99,2.73
+2018_LU56_14,,Luanda,Angola,,,,2010,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto,2018-Luanda,34385800,33681806,98.00%,358,15.76,2.18
+2018_LU60_14,,Luanda,Angola,,,,2010,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto,2018-Luanda,39559344,39074129,98.80%,342,17.53,2.26
+2018_LU52_14,,Luanda,Angola,,,,2010,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto,2018-Luanda,31977710,31512144,98.50%,350,14.56,2.2
+2018_LU54_14,,Luanda,Angola,,,,2010,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto,2018-Luanda,32694687,31580942,96.60%,341,14.48,2.26
+2018_LU55_14,,Luanda,Angola,,,,2010,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto,2018-Luanda,34296710,33891245,98.80%,331,15.81,2.17
+2018_LU57_14,,Luanda,Angola,,,,2010,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto,2018-Luanda,38143029,37242763,97.60%,334,17,2.24
+2018_LU58_14,,Luanda,Angola,,,,2010,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto,2018-Luanda,33733656,33382053,99.00%,333,14.96,2.25
+2018_LU59_14,,Luanda,Angola,,,,2010,STP gene flow,An. coluzzii,analysis in progress?,AW,MH,from Joao Pinto,2018-Luanda,34251211,33590983,98.10%,344,15.52,2.21
+2014TOR002,,Tori,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,24883161,24460942,98.30%,358,11.11,2.24
+2014TOR004,,Tori,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,26551754,26042562,98.10%,363,11.66,2.28
+2014TOR007,,Tori,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,21809796,21341590,97.90%,347,9.6,2.27
+2014TOR008,,Tori,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,22361585,21972356,98.30%,353,10.07,2.22
+2014TOR010,,Tori,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,23359896,22986605,98.40%,337,10.58,2.21
+2014TOR011,,Tori,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,26345000,25927507,98.40%,339,11.87,2.22
+2014ABO003,,Abomey,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,21893252,21549387,98.40%,335,9.55,2.29
+2014COV001,,Cove,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,22868724,22521619,98.50%,363,10.34,2.21
+2014COV002,,Cove,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,27103550,26734610,98.60%,351,12.05,2.25
+2014COV004,,Cove,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,22356694,22035350,98.60%,352,9.95,2.25
+2014COV006,,Cove,Benin,,,,2014,Benin introgression,An. coluzzii,analysis in progress?,MH,MH,MH unifinished project 1,MH-Acol-01,26386451,25986114,98.50%,367,11.74,2.25
+02SELI0080,,Selinkenyi,Mali,,,,2002,Mali introgression,An. coluzzii,,,,,,82763368,81657947,98.70%,333,26.67,3.1
+02SELI0084,,Selinkenyi,Mali,,,,2002,Mali introgression,An. coluzzii,,,,,,21808321,21493975,98.60%,202,9.11,2.39
+02SELI0085,,Selinkenyi,Mali,,,,2002,Mali introgression,An. coluzzii,,,,,,30605541,30060919,98.20%,200,11.88,2.58
+04SELI0084,,Selinkenyi,Mali,,,,2004,Mali introgression,An. coluzzii,,,,,,30251232,24498826,81.00%,281,11.03,2.74
+06SELI0015,,Selinkenyi,Mali,,,,2006,Mali introgression,An. coluzzii,,,,,,27654579,25316253,91.50%,380,11.06,2.5
+06SELI0030,,Selinkenyi,Mali,,,,2006,Mali introgression,An. coluzzii,,,,,,23557116,22800268,96.80%,383,9.89,2.38
+10SELI_O124,,Selinkenyi,Mali,,,,2010,Mali introgression,An. coluzzii,,,,,,18844878,18015105,95.60%,233,8.13,2.32
+10SELI_O160,,Selinkenyi,Mali,,,,2010,Mali introgression,An. coluzzii,,,,,,22019732,20928650,95.00%,218,8.95,2.46
+12SELI0021,,Selinkenyi,Mali,,,,2012,Mali introgression,An. coluzzii,,,,,,75285748,40975167,54.40%,252,15.76,4.78
+12SELI0072,,Selinkenyi,Mali,,,,2012,Mali introgression,An. coluzzii,,,,,,63272889,42715864,67.50%,226,16.46,3.84
+#ERS223749,BFBana_8_2,Bana,Burkina Faso,,11.233,-4.472,2012,Ag1000,An. coluzzii,low priority,,,,,117604304,98834716,84.00%,203,32.54,3.61
+#ERS223761,BFBana_4_2,Bana,Burkina Faso,,11.233,-4.472,2012,Ag1000,An. coluzzii,low priority,,,,,,,,,,
+#ERS223794,BFBana_8_1,Bana,Burkina Faso,,11.233,-4.472,2012,Ag1000,An. coluzzii,low priority,,,,,,,,,,
+#ERS223843,BFBana_5_2,Bana,Burkina Faso,,11.233,-4.472,2012,Ag1000,An. coluzzii,low priority,,,,,,,,,,
+#ERS223844,BFBana_6_1,Bana,Burkina Faso,,11.233,-4.472,2012,Ag1000,An. coluzzii,low priority,,,,,,,,,,
+#ERS223756,BFSour_59_3,Sourukoudinga,Burkina Faso,,11.235,-4.535,2012,Ag1000,An. coluzzii,low priority,,,,,,,,,,
+#ERS223757,BFSour_55_2,Sourukoudinga,Burkina Faso,,11.235,-4.535,2012,Ag1000,An. coluzzii,low priority,,,,,,,,,,
+#ERS223804,BFSour_57_1,Sourukoudinga,Burkina Faso,,11.235,-4.535,2012,Ag1000,An. coluzzii,low priority,,,,,,,,,,
+#ERS223818,BFSour_57_3,Sourukoudinga,Burkina Faso,,11.235,-4.535,2012,Ag1000,An. coluzzii,low priority,,,,,,,,,,
+#ERS223910,BFSour_54_3,Sourukoudinga,Burkina Faso,,11.235,-4.535,2012,Ag1000,An. coluzzii,low priority,,,,,,,,,,
+#ERS311783,Tia_dPM_8,Tiassale,Cote d'Ivoire,,5.89839,-4.82293,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311784,Tia_dPM_7,Tiassale,Cote d'Ivoire,,5.89839,-4.82293,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311786,Tia_dPM_5,Tiassale,Cote d'Ivoire,,5.89839,-4.82293,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311787,Tia_dPM_4,Tiassale,Cote d'Ivoire,,5.89839,-4.82293,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311788,Tia_dPM_3,Tiassale,Cote d'Ivoire,,5.89839,-4.82293,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311949,Madina_D3,Madina,Ghana,,5.66849,-0.21928,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311950,Madina_E3,Madina,Ghana,,5.66849,-0.21928,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311952,Madina_H3,Madina,Ghana,,5.66849,-0.21928,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311954,Madina_E4,Madina,Ghana,,5.66849,-0.21928,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311955,Madina_F4,Madina,Ghana,,5.66849,-0.21928,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311894,Takoradi_C7,Takoradi,Ghana,,4.91217,-1.77397,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311895,Takoradi_E7,Takoradi,Ghana,,4.91217,-1.77397,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311896,Takoradi_G7,Takoradi,Ghana,,4.91217,-1.77397,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311898,Takoradi_D8,Takoradi,Ghana,,4.91217,-1.77397,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
+#ERS311899,Takoradi_E8,Takoradi,Ghana,,4.91217,-1.77397,2012,Ag1000,An. coluzzii,data downloaded,,,,,,,,,,
